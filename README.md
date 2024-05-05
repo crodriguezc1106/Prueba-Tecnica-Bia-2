@@ -25,7 +25,7 @@ Proyecto desarrollado con Robot Framework, Python y Selenium para el segundo pun
 ### Ejecución del programa
 
 * Asegurese que el **virtual environment** este activado.
-* Escriba en la consola  `robot tests/login_tests.robot` y pulse enter
+* Escriba en la consola  `robot test/login_tests.robot` y pulse enter
 
 ### Autor
 
